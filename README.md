@@ -1,3 +1,5 @@
+
 ## Personal Portfolio
-React Next JS Porfolio using 
+using React Next JS Porfolio 
+
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
